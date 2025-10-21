@@ -3,15 +3,7 @@
 ---
 ## 📚 Overview
 
-This assignment involves working with OpenStreetMap (OSM) data to perform geographic data analysis and visualization. You will implement algorithms to process OSM files, extract relevant information, and answer queries about map features such as roads, intersections, and routes.
-
----
-## 🎯 Objectives
-
-- Parse and analyze OpenStreetMap data files
-- Implement algorithms for map feature extraction
-- Answer queries about roads, intersections, and routes
-- Visualize geographic data as needed
+This assignment involves working with OpenStreetMap (OSM) data to perform geographic data analysis and visualization. It implements algorithms to process OSM files, extract relevant information, and answer queries about map features such as roads, intersections, and routes.
 
 ---
 ## 🛠️ Requirements
@@ -22,16 +14,16 @@ This assignment involves working with OpenStreetMap (OSM) data to perform geogra
 - Output: Answers to queries, visualizations, or processed data files
 
 ---
-## 📝 Tasks
+## 📝 Operations
 
-1. **OSM Data Parsing**: Read and parse the provided OSM file to extract nodes, ways, and relations.
-2. **Feature Extraction**: Identify and extract map features such as roads, intersections, and points of interest.
-3. **Query Implementation**: Implement functions to answer queries about:
+1. **OSM Data Parsing**: Reads and parses the provided OSM file to extract nodes, ways, and relations.
+2. **Feature Extraction**: Identifies and extracts map features such as roads, intersections, and points of interest.
+3. **Query Implementation**: Implements functions to answer queries about:
    - 🛣️ Road connectivity
    - 🚗 Shortest paths/routes
    - 🚦 Intersection details
    - 🏙️ Other map features as specified in the assignment
-4. **Visualization (if required)**: Generate visual representations of the map or query results.
+4. **Visualization (if required)**: Generates visual representations of the map or query results.
 
 ---
 ## ▶️ How to Run
