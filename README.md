@@ -3,7 +3,7 @@
 ---
 ## 📚 Overview
 
-This assignment involves working with OpenStreetMap (OSM) data to perform geographic data analysis and visualization. It implements algorithms to process OSM files, extract relevant information, and answer queries about map features such as roads, intersections, and routes.
+This project works with OpenStreetMap (OSM) data to perform geographic data analysis and visualization. It implements algorithms to process OSM files, extract relevant information, and answer queries about map features such as roads, intersections, and routes.
 
 ---
 ## 🛠️ Requirements
