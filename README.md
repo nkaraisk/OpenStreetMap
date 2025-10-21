@@ -1,4 +1,4 @@
-# 🗺️ HW5 - OpenStreetMap
+# 🗺️ OpenStreetMap
 
 ---
 ## 📚 Overview
